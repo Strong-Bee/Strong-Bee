@@ -3,7 +3,7 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Strong-Bee/Strong-Bee/main/assets/sb-logo.png" width="120" alt="Strong Bee Logo" />
   <br />
-  <strong>Strong Bee Developer</strong>
+  <strong>Cyber Technology Project</strong>
 </h1>
 
 <p align="center">
