@@ -1,7 +1,7 @@
 <!-- README.md for Strong-Bee -->
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Strong-Bee/Strong-Bee/main/assets/sb-logo.png" width="120" alt="Strong Bee Logo" />
+  <img src="51035534.jpeg" width="120" alt="Strong Bee Logo" />
   <br />
   <strong>Cyber Technology Project</strong>
 </h1>
